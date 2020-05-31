@@ -8,8 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
         //generate threads and iterations numbers
-        int threads = 16;
-        int iterations = 10000000;
+        int threads = 8;
+        int iterations = 1000000;
         int threadIterations = iterations/threads;
         int counter = 0;
 
